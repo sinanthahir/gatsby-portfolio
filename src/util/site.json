@@ -2,11 +2,11 @@
   "meta": {
     "title": "Sinan Thahir",
     "titleTemplate": "%s",
-    "description": "A personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ ",
+    "description": "A personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ | Sinan Thahir",
     "siteUrl": "https://sinanthahir.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@sinanthahir"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

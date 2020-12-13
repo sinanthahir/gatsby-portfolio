@@ -7,7 +7,7 @@ description: Writing a book ‘considered as a skill but for me it’s upskillin
   Listen, everyone can be a writer. Each one of us have a story to share. In
   fact, more stories to put forward. But the truth to write these stories, first
   you need to start write.
-featuredImage: /assets/dan27yelle-mcneely-photography_seattle-wedding-photographer.0093-620x414.jpg
+featuredImage: /assets/pexels-vlada-karpovich-4050304.jpg
 ---
 > You’ll discover who you are; unless you’ve tried it.
 

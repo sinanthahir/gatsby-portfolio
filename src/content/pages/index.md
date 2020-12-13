@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Sinan Thahir
 tagline: Mechanical Engineer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/screenshot_2020-12-13-13-46-47-00.jpg
 cta:
   ctaText: Know more
   ctaLink: /about

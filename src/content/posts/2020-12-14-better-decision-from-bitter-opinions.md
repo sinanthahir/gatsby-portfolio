@@ -64,5 +64,3 @@ There will be occasions when you feel the criticism is personal and, now and the
 **Unsure of how effectively you’re communicating? Try to transform your critical phrases into feedback that inspires change. May these words help you along !**
 
 Alas, Enjoy reading !
-
-<!--EndFragment-->

@@ -26,7 +26,7 @@ An Engineering aspirant with a demonstrated experience in the startup ecosystem 
 
 - - -
 
-* Guiding as a Product Design Manager in \*\*[.AST Edutech](https://dotast.in/)
+* Guiding as a Product Design Manager in [.AST Edutech](https://dotast.in/)
 * Developing my *design conceptual ideas* into **Foundational Sustainable Product**
   <br>(Check out my **[Behance Portfolio](https://www.behance.net/sinanthahir)** for my works)
 * Currently i am developing my career and skills in **CFD**, **Data Science** and **Machine Learning**
@@ -51,17 +51,24 @@ As a part of my Data Science career, i had worked on minor learning projects on 
 
 I had been a freelance graphics designer for the last few years and collaborated with many peoples in motion for many *Club Activities, Event Management and Brand Promotions.*
 <br><br>
+
 ## 📚 Education
-----
+
+- - -
+
 ### 🎓 Bachelor's Degree in Mechanical Engineering *(2017-Present)*
-University : APJ Abdul Kalam Technological University, Kerala<br>
-College : Rajadhani Institute of Engineering and Technology.
+
+University : [APJ Abdul Kalam Technological University](https://ktu.edu.in/), Kerala.
+<br>
+College : [Rajadhani Institute of Engineering and Technology](https://riet.net.in/), Attingal.
 <br><br>
+
 ## 🧩 Activities
----
+
+- - -
+
 ### 🎙️ BookYard Audiobook & Summaries Podcast
+
 A Podcast which looks forward to provide you with book you like to take on while on your routine & office chores! Turning the short time possible to deliver a complete book to *nourish your mind, vision and creating a better productive hours*.
-<iframe src="https://open.spotify.com/embed-podcast/show/0vGto6qZ2e6NqH18vBnuoh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
-
+<iframe src="https://open.spotify.com/embed-podcast/show/0vGto6qZ2e6NqH18vBnuoh" width="100%" height="156" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

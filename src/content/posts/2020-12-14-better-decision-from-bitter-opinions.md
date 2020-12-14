@@ -28,7 +28,7 @@ But on the other hand, it may lead to improvement of the person being criticized
 
 # Criticism : a form of communication.
 
-*`If someone has a criticism for you; literally take it as they want to give you a feedback on what you are done or doing for them. `**`We all make mistakes all the time, it is human nature.`*** As we go through life we have plenty of opportunity to learn and improve ourselves. That means ***Criticism*** is an opportunity to learn more about the person who you’re working for and in case your *a influencer or in business;* how to convert them into a satisfied customer or audience member.
+\*`If someone has a criticism for you; literally take it as they want to give you a feedback on what you are done or doing for them.`**`We all make mistakes all the time, it is human nature.`*** As we go through life we have plenty of opportunity to learn and improve ourselves. That means ***Criticism*** is an opportunity to learn more about the person who you’re working for and in case your *a influencer or in business;* how to convert them into a satisfied customer or audience member.
 
 <!--EndFragment--><!--StartFragment-->
 

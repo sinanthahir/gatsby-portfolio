@@ -8,4 +8,8 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-I'm a mechanical engineering aspirant(mostly designing) based in Thiruvananthapuram, Kerala. Presently advancing in CFD, Data Science and Machine Learning. Looking forward for creative ideas!
+<!--StartFragment-->
+
+### 📐 Designer | 🦾 Engineering | ✍️ Content Writer | 💻 CFD<br> Currently Developing Skills in 🧠 Machine Learning & 👨‍💻 Data Science
+
+<!--EndFragment-->

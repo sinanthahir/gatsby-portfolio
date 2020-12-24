@@ -10,6 +10,6 @@ cta:
 ---
 <!--StartFragment-->
 
-### 📐 Designer | 🦾 Engineering | ✍️ Content Writer | 💻 CFD<br> Currently Developing Skills in 🧠 Machine Learning & 👨‍💻 Data Science
+#### 📐 Designer | 🦾 Engineering | ✍️ Content Writer | 💻 CFD <br> Developing Skills in 🧠 Machine Learning & 👨‍💻 Data Science
 
 <!--EndFragment-->

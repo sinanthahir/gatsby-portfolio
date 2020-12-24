@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 export const pageQuery = graphql`
-  query ActivityQuery($id: String!){
+  query ResourcesQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
       id
 			html
@@ -16,7 +16,7 @@ export const pageQuery = graphql`
     }
   }
 `
-const ActivityPage = ({ data }) => {
+const ResourcesPage = ({ data }) => {
 	const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html, excerpt } = markdownRemark
 
@@ -34,4 +34,4 @@ const ActivityPage = ({ data }) => {
 	)
 }
 
-export default ActivityPage
+export default ResourcesPage

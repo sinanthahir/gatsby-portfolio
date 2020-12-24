@@ -27,9 +27,12 @@ An Engineering aspirant with a demonstrated experience in the startup ecosystem 
 - - -
 
 * Guiding as a Product Design Manager in [.AST Edutech](https://dotast.in/)
+
 * Developing my *design conceptual ideas* into **Foundational Sustainable Product**
   <br>(Check out my **[Behance Portfolio](https://www.behance.net/sinanthahir)** for my works)
-* Currently i am developing my career and skills in **CFD**, **Data Science** and **Machine Learning**
+
+* Currently i am developing my career and skills in **Data Science** and **Machine Learning**
+
 * Content writer at [The Uplift](https://medium.com/theuplift) Publication
   <br><br>
 
@@ -62,13 +65,3 @@ University : [APJ Abdul Kalam Technological University](https://ktu.edu.in/), Ke
 <br>
 College : [Rajadhani Institute of Engineering and Technology](https://riet.net.in/), Attingal.
 <br><br>
-
-## 🧩 Activities
-
-- - -
-
-### 🎙️ BookYard Audiobook & Summaries Podcast
-
-A Podcast which looks forward to provide you with book you like to take on while on your routine & office chores! Turning the short time possible to deliver a complete book to *nourish your mind, vision and creating a better productive hours*.
-
-<iframe src="https://open.spotify.com/embed-podcast/show/0vGto6qZ2e6NqH18vBnuoh" width="100%" height="156" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

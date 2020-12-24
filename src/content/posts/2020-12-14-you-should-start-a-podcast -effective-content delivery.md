@@ -61,7 +61,7 @@ A podcast doesn’t have to be a hobby. There are ways you can make money from y
 
 ## 👋 Hey there, people! I had recently launched a new podcast of my own, Spotify Podcast — [Bookyard Audiobook & Summaries](https://open.spotify.com/show/0vGto6qZ2e6NqH18vBnuoh).
 
-<!--EndFragment--><iframe src="https://open.spotify.com/embed-podcast/show/0vGto6qZ2e6NqH18vBnuoh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<!--EndFragment--><iframe src="https://open.spotify.com/embed-podcast/show/0vGto6qZ2e6NqH18vBnuoh" width="100%" height="232" style="border:none;" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!--StartFragment-->
 

@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
+title: "Turning Habit into Better Contents : Bookyard Initiative"
+slug: /bookyard_how_when_why
+date: 2020-06-23 23:40
 description: How to draw a character
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---

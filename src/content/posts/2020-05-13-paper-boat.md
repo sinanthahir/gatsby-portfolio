@@ -6,11 +6,14 @@ date: 2020-06-23 23:40
 description: How to draw a character
 featuredImage: /assets/turning-habit-into-better-contents.png
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+> **First forget Inspiration** <br>
+> **Habit is more dependable** <br>
+> **Habit will sustain you whether**<br>
+> **you're inspired or not**
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+Every one have a habit, good or worse; but if there is a way to hoon it such a way that it can create a dramatic change  to the people around you. Then you should really look in to it.
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+## For one reason, it may not be you who think about it. But someone else be so.
 
 Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
 

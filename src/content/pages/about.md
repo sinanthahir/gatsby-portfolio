@@ -65,3 +65,33 @@ University : [APJ Abdul Kalam Technological University](https://ktu.edu.in/), Ke
 <br>
 College : [Rajadhani Institute of Engineering and Technology](https://riet.net.in/), Attingal.
 <br><br>
+### 🏫 Primary Education *(2003-2017)*
+Board : [Higher Secondary Education, Kerala](http://dhsekerala.gov.in/).
+Duration : (2015-2017)
+<br>
+Field of Study : Science Stream
+<br><br>
+Board : [Central Board of Secondary Education](https://www.cbse.gov.in/), New Delhi.
+Duration:(2005-2015)
+
+## 🙋‍♂️ Volunteer Experience
+
+---
+### SAE India
+<b>Executive Council Member</b>
+<i>March 2019 - Present</i>
+
+### I am Startup Studio
+<b>Campus Ambassador</b>
+<i>November 2019 - Present</i>
+
+### MoE's IIC Rajadhani
+<b>Executive Board Member, Social-Media Manager</b>
+<i>April 2019 - Present</i>
+
+## 🧰 Projects
+
+---
+### CFL Disposal System
+
+For reference, [Click Here](https://www.notion.so/sinanthahir/CFL-Disposal-System-5408d68dd52f4e77b7acfcaaadbe8196)

@@ -66,11 +66,13 @@ University : [APJ Abdul Kalam Technological University](https://ktu.edu.in/), Ke
 College : [Rajadhani Institute of Engineering and Technology](https://riet.net.in/), Attingal.
 <br><br>
 ### 🏫 Primary Education *(2003-2017)*
+School : MRMKMMHSS, Edava 
 Board : [Higher Secondary Education, Kerala](http://dhsekerala.gov.in/).
 Duration : (2015-2017)
 <br>
 Field of Study : Science Stream
 <br><br>
+School : Jawahar Public Senior Secondary School, Edava
 Board : [Central Board of Secondary Education](https://www.cbse.gov.in/), New Delhi.
 Duration:(2005-2015)
 
@@ -80,18 +82,41 @@ Duration:(2005-2015)
 ### SAE India
 <b>Executive Council Member</b>
 <i>March 2019 - Present</i>
+This is a fantasying Organisation to work with, We tend to develop many Organisational skill and have a vibrant networking opportunity through this platform . It also give us a unique opportunity to exhibit our technical talents through organizing various competition which are associated with what we actually learn .
 
 ### I am Startup Studio
 <b>Campus Ambassador</b>
 <i>November 2019 - Present</i>
+Being one of the south India's best Student Network Campaign, I Am Startup Studio created a broad way to nurture my entrepreneurship and help in cultivating our campus innovation to the outside world. 
 
 ### MoE's IIC Rajadhani
 <b>Executive Board Member, Social-Media Manager</b>
 <i>April 2019 - Present</i>
 
+
+### RIEDC 
+<b>Student Council Member</b>
+<i>June 2019 - Present</i>
+
 ## 🧰 Projects
 
 ---
 ### CFL Disposal System
-
+An all-in-one effective CFL Lamps Disposal system using Proper Mercury Extraction procedure and other by product for Secondary production raw material in a systematic order and by profile selection method.
+ <ul>
+ <li>Shortlisted in 'Young Innovators Program 2019' - Zonal Level Evaluation</li>
+ <li>Revamping to a NGO level Impact Management Thesis </li>
+ </ul>
 For reference, [Click Here](https://www.notion.so/sinanthahir/CFL-Disposal-System-5408d68dd52f4e77b7acfcaaadbe8196)
+
+### Small Scale Compact Waste Water Treatment
+In this design project we came up with an idea of developing a Small Scale Waste
+Water Treatment Plant which consumes a less residential area and provides a better
+source of high-quality water supplies.
+
+For reference, [Click Here](https://www.notion.so/sinanthahir/Small-Scale-Compact-Waste-Water-Treatment-Plant-88eb884d072642a58a57e645ead21533)
+
+### Evaluation and Validation On The Effectiveness of Corrugated PHE
+In most heat exchangers, heat transfer between fluids takes place through a separating wall or into and out of a wall in a transient manner. Through this project we are evaluatin two different materials as transient walls in a typical heat exchanger role.
+
+For reference, [Click Here](https://www.notion.so/sinanthahir/Project-Evaluation-and-Validation-On-The-Effectiveness-of-Corrugated-Plate-Heat-Exchanger-3c3a9e2ae8734ac0a680efc5e4e33efd)
